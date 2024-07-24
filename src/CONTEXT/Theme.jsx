@@ -11,6 +11,7 @@ import { ThemeContext } from "./ContextApi";
         }
         else{
             ChangeRef.current.style.background=light.background
+            //hii
         }
     }
     return(
